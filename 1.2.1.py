@@ -13,4 +13,4 @@ def factorielle(a):
             a -= 1
         return result
 
-print(factorielle((10)))
+print(factorielle((8)))
